@@ -6,7 +6,7 @@ def dibujo(i):
     if i==0:
         
         print("""
-         VAMOS BIEN, NO DEJES QUE ME AHORQUEN
+         VAMOS BIEN, NO DEJES QUE ME AHORQUEN, GANA
             +---+
                 !
                 !
